@@ -23,5 +23,8 @@ As the Data Engineer, my task was to quickly implement a datawarehousing solutio
 Datawarehouses makes it very convenient for Data Analysts and Scientist to run analyitcs on datasets being generated which is very important for the growth of any organization.
 
 ### Approach
-The approach i took was to study the five datasets and create an Entity Relationship diagram which shows the relationship and cardinality of the datasets as show below.   
+The approach i took was to study the five datasets and create an Entity Relationship diagram which shows the relationship and cardinality of the datasets as shown below.   
 ![](https://github.com/jaykay04/Implementing-Data-Modeling-And-Warehousing-Solution-Using-PostgreSQL/blob/main/images/ecom_data_model.png)
+
+The next step was to extract the various datasets into jupyter notebook by converting it into dataframes so that it becomes lot more easier to perform transformations where necessary.   
+![](https://github.com/jaykay04/Implementing-Data-Modeling-And-Warehousing-Solution-Using-PostgreSQL/blob/main/images/load_data1.png)
