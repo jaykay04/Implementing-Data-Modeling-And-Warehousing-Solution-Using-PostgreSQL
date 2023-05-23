@@ -28,4 +28,7 @@ The approach i took was to study the five datasets and create an Entity Relation
 
 The next step was to extract the various datasets into jupyter notebook by converting it into dataframes so that it becomes lot more easier to perform transformations where necessary.   
 ![](https://github.com/jaykay04/Implementing-Data-Modeling-And-Warehousing-Solution-Using-PostgreSQL/blob/main/images/load_data1.png)   
-<img src="https://github.com/jaykay04/Implementing-Data-Modeling-And-Warehousing-Solution-Using-PostgreSQL/blob/main/images/load_data2.png">
+<img src="https://github.com/jaykay04/Implementing-Data-Modeling-And-Warehousing-Solution-Using-PostgreSQL/blob/main/images/load_data2.png">   
+
+The next approach is to create a connection to the database using psycopg2 and sqlalchemy as shown below;
+![](https://github.com/jaykay04/Implementing-Data-Modeling-And-Warehousing-Solution-Using-PostgreSQL/blob/main/images/connection.png)
