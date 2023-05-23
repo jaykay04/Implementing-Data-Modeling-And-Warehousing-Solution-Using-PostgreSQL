@@ -18,4 +18,4 @@ Datawarehouses makes it very convenient for Data Analysts and Scientist to run a
 
 ### Approach
 The approach i took was to study the five datasets and create an Entity Relationship diagram which shows the relationship and cardinality of the datasets as show below.   
-![https://github.com/jaykay04/Implementing-Data-Modeling-And-Warehousing-Solution-Using-PostgreSQL/blob/main/images/ecom_data_model.png]
+![](https://github.com/jaykay04/Implementing-Data-Modeling-And-Warehousing-Solution-Using-PostgreSQL/blob/main/images/ecom_data_model.png)
