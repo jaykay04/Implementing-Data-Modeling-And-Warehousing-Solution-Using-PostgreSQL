@@ -27,4 +27,5 @@ The approach i took was to study the five datasets and create an Entity Relation
 ![](https://github.com/jaykay04/Implementing-Data-Modeling-And-Warehousing-Solution-Using-PostgreSQL/blob/main/images/ecom_data_model.png)
 
 The next step was to extract the various datasets into jupyter notebook by converting it into dataframes so that it becomes lot more easier to perform transformations where necessary.   
-![](https://github.com/jaykay04/Implementing-Data-Modeling-And-Warehousing-Solution-Using-PostgreSQL/blob/main/images/load_data1.png)
+![](https://github.com/jaykay04/Implementing-Data-Modeling-And-Warehousing-Solution-Using-PostgreSQL/blob/main/images/load_data1.png)   
+<img src="https://github.com/jaykay04/Implementing-Data-Modeling-And-Warehousing-Solution-Using-PostgreSQL/blob/main/images/load_data2.png">
