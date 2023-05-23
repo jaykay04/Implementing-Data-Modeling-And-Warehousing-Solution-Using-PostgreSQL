@@ -38,3 +38,6 @@ After creating the connection to the database, the cursor was used to create the
 
 Next, the data from dataframes was copied to its individual table using the to_sql function as shown;
 ![](https://github.com/jaykay04/Implementing-Data-Modeling-And-Warehousing-Solution-Using-PostgreSQL/blob/main/images/copy_data_to_tables.png)
+
+To test run it, i ran a *SELECT* statement on the tables
+![](https://github.com/jaykay04/Implementing-Data-Modeling-And-Warehousing-Solution-Using-PostgreSQL/blob/main/images/postgres_table.png)
