@@ -31,4 +31,7 @@ The next step was to extract the various datasets into jupyter notebook by conve
 <img src="https://github.com/jaykay04/Implementing-Data-Modeling-And-Warehousing-Solution-Using-PostgreSQL/blob/main/images/load_data2.png">   
 
 The next approach is to create a connection to the database using psycopg2 and sqlalchemy as shown below;
-![](https://github.com/jaykay04/Implementing-Data-Modeling-And-Warehousing-Solution-Using-PostgreSQL/blob/main/images/connection.png)
+![](https://github.com/jaykay04/Implementing-Data-Modeling-And-Warehousing-Solution-Using-PostgreSQL/blob/main/images/connection.png)   
+
+After creating the connection to the database, the cursor was used to create the tables accordingly amd commited for the execution to materialize.
+![](https://github.com/jaykay04/Implementing-Data-Modeling-And-Warehousing-Solution-Using-PostgreSQL/blob/main/images/create_table.png)
