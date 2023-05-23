@@ -14,7 +14,7 @@ The datasets generated are;
 *  Department data
 *  Orders data
 *  Order_products data
-*  Products data
+*  Products data   
 Due to the lack of a central repo to hold and connect these data, the Data Analysts are finding it extremely difficult to run analytics on the data being generated thereby leading to an inability to be able to extract useful and actionable insights that will be used to make data driven decisions..
 
 ### Task
