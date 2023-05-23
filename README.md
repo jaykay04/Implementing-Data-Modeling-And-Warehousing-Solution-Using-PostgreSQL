@@ -33,5 +33,8 @@ The next step was to extract the various datasets into jupyter notebook by conve
 The next approach is to create a connection to the database using psycopg2 and sqlalchemy as shown below;
 ![](https://github.com/jaykay04/Implementing-Data-Modeling-And-Warehousing-Solution-Using-PostgreSQL/blob/main/images/connection.png)   
 
-After creating the connection to the database, the cursor was used to create the tables accordingly amd commited for the execution to materialize.
+After creating the connection to the database, the cursor was used to create the tables accordingly and commited for the execution to materialize.
 ![](https://github.com/jaykay04/Implementing-Data-Modeling-And-Warehousing-Solution-Using-PostgreSQL/blob/main/images/create_table.png)
+
+Next, the data from dataframes was copied to its individual table using the to_sql function as shown;
+![](https://github.com/jaykay04/Implementing-Data-Modeling-And-Warehousing-Solution-Using-PostgreSQL/blob/main/images/copy_data_to_tables.png)
