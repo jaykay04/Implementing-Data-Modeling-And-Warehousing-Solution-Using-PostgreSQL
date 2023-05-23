@@ -4,8 +4,8 @@ This Project demonstrates how a Datawarehousing solution was implemented for Ins
 ### Situation
 Instacart Supermarket is large e-commerce store that generates millions of datasets daily. 
 These datasets generated are;
-* 1. aisles data
-* 2. department data
-* 3. orders data
-* 4. order_products data
-* 5. products data
+*  Aisles data
+*  Department data
+*  Orders data
+*  Order_products data
+*  Products data
